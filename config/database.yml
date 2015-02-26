@@ -27,20 +27,20 @@
 
 
 development:
-  adapter: mysql
+  adapter: mysql2
   database: stellarr_prod
-  username: stellarr_prod
-  password: stellarrays
+  username: root
+  password: 
   host: localhost
 test:
-  adapter: mysql
+  adapter: mysql2
   database: stellarr_prod
-  username: stellarr_prod
-  password: stellarrays
+  username: root
+  password: 
   host: localhost
 production:
-  adapter: mysql
+  adapter: mysql2
   database: stellarr_prod
-  username: stellarr_prod
-  password: stellarrays
+  username: root
+  password: 
   host: localhost
