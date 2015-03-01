@@ -41,6 +41,6 @@ test:
 production:
   adapter: mysql2
   database: stellarr_prod
-  username: stellarr_prod
-  password: stellarrays
+  username: stellarr_prodd
+  password: Stellar@2014
   host: localhost
