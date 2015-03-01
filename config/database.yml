@@ -29,14 +29,14 @@
 development:
   adapter: mysql2
   database: stellarr_prod
-  username: root
-  password: 
+  username: stellarr_prodd
+  password: Stellar@2014
   host: localhost
 test:
   adapter: mysql2
   database: stellarr_prod
-  username: root
-  password: 
+  username: stellarr_prodd
+  password: Stellar@2014
   host: localhost
 production:
   adapter: mysql2
